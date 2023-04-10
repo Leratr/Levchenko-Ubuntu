@@ -39,4 +39,3 @@ PLAY RECAP "****************************************************************** *
 
 nginx: ok=5 changed=2 unreachable=0 failed=0 skipped=0 rescued=0 ignored=0
 
-Лицензия - AMG///// Production
